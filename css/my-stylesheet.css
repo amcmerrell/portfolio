@@ -10,16 +10,16 @@ a:hover {
 .container-fluid {
   padding-left: 0px;
   padding-right: 0px;
-  margin-top: 0px;
 }
 
 .background {
   width: 100vw;
   position: relative;
+  padding-top: 5px;
 }
 
 .page-header {
-  margin: 0px;
+  margin: 5px;
 }
 
 .nav-pills > li.active > a {
@@ -67,6 +67,10 @@ a:hover {
 h2 {
   font-family: 'Fira Sans', sans-serif;
   text-decoration: underline;
+}
+
+.available-bar > h2 {
+  padding-bottom: 20px;
 }
 
 .panel-default>.panel-heading {
