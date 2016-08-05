@@ -18,6 +18,14 @@ a:hover {
   position: relative;
 }
 
+.page-header {
+  margin: 0px;
+}
+
+.nav-pills > li.active > a {
+  background-color: orange;
+}
+
 .top-feature {
   position: absolute;
   width: 100%;
