@@ -1,4 +1,4 @@
-p {
+body {
   font-family: 'Roboto', sans-serif;
 }
 
@@ -35,6 +35,11 @@ p {
   color: orange;
 }
 
+.fa {
+  color: white;
+  font-size: 5em;
+}
+
 .logo {
   width: 15vw;
   height: auto;
@@ -43,4 +48,10 @@ p {
 .available-bar {
   background-color: #333333;
   color: #ffffff;
+  padding: 10px;
+}
+
+h2 {
+  font-family: 'Fira Sans', sans-serif;
+  text-decoration: underline;
 }
