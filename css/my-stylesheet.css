@@ -1,0 +1,18 @@
+.background {
+  width: 100vw;
+  position: relative;
+}
+
+.top-feature {
+  position: absolute;
+  width: 100%;
+  top: 15vh;
+  left:0;
+  color: white;
+  text-align: center;
+}
+
+.container-fluid {
+  padding-left: 0px;
+  padding-right: 0px;
+}
