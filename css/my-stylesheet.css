@@ -1,5 +1,10 @@
 body {
   font-family: 'Roboto', sans-serif;
+  background-color: #EEEEEE
+}
+
+a:hover {
+  color: orange;
 }
 
 .container-fluid {
@@ -54,4 +59,9 @@ body {
 h2 {
   font-family: 'Fira Sans', sans-serif;
   text-decoration: underline;
+}
+
+.panel-default>.panel-heading {
+  background-color: #00A4E3;
+  color: white;
 }
