@@ -16,6 +16,20 @@ a:hover {
   padding-right: 0px;
 }
 
+@media (max-width: 767px) {
+  .glyphicon-envelope {
+    font-size: 2em;
+    color: white;
+  }
+}
+
+@media (min-width: 768px) {
+  .glyphicon-envelope {
+    color: white;
+    font-size: 5em;
+  }
+}
+
 .background {
   width: 100vw;
   position: relative;
@@ -41,11 +55,6 @@ a:hover {
 
 .top-feature h1 {
   font-family: 'Fira Sans', sans-serif;
-}
-
-.glyphicon-envelope {
-  color: white;
-  font-size: 5em;
 }
 
 .glyphicon-envelope:hover {
