@@ -5,6 +5,7 @@ p {
 .container-fluid {
   padding-left: 0px;
   padding-right: 0px;
+  margin-top: 0px;
 }
 
 .background {
@@ -37,4 +38,9 @@ p {
 .logo {
   width: 15vw;
   height: auto;
+}
+
+.available-bar {
+  background-color: #333333;
+  color: #ffffff;
 }
