@@ -7,6 +7,10 @@ a:hover {
   color: orange;
 }
 
+.jumbotron {
+  margin-bottom: 0px;
+}
+
 .container-fluid {
   padding-left: 0px;
   padding-right: 0px;
