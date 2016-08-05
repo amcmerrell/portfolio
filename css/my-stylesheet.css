@@ -1,3 +1,12 @@
+p {
+  font-family: 'Roboto', sans-serif;
+}
+
+.container-fluid {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
 .background {
   width: 100vw;
   position: relative;
@@ -12,7 +21,20 @@
   text-align: center;
 }
 
-.container-fluid {
-  padding-left: 0px;
-  padding-right: 0px;
+.top-feature h1 {
+  font-family: 'Fira Sans', sans-serif;
+}
+
+.glyphicon-envelope {
+  color: white;
+  font-size: 5em;
+}
+
+.glyphicon-envelope:hover {
+  color: orange;
+}
+
+.logo {
+  width: 15vw;
+  height: auto;
 }
