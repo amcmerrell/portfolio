@@ -14,8 +14,6 @@ _This website provides information about Andrew's background, experience, as wel
 * _Open your terminal application of choice and use "git clone https://github.com/amcmerrell/portfolio" in the command line._
 * _Navigate to the directory you cloned and open the index.html file in your web browser._
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
-
 ## Known Bugs
 
 _Currently, there are issues with the top feature section running into the available bar below it on smaller screens. In addition, the stacked list of icons seen on tablets in portrait view isn't the ideal use of space and will be fixed in a future version._
